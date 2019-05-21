@@ -1,0 +1,2 @@
+# TPDM_U4_Practica2_MaciasUrzuaDelia
+ Consiste en que en 1 minuto (decrometro de arriba) deberás aplastar al menos a 30 moscas. En cuyo caso aparecerá un jefe (un moscardón más grande) el cual deberás derrotar del mismo modo que las moscas normales en 10 segundos darle 5 apretones. Si no cumples con 30 moscas en 1 minuto no aparece el jefe y pierdes, Si aparece el jefe pero no lo aplastas 5 veces en 10 segundos pierdes. Este juego NO LLEVA puntero tipo matamoscas como el juego original ya que nosotros no usamos un ratón sino solo tocamos la pantalla.
